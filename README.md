@@ -1,7 +1,7 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> Nice to see you.</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/>st@r b0y</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=cl4ym0re&bg_color=45,E76544,8F4E92&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=cl4ym0re&theme=chartreuse-dark&show_icons=true">
 </p>
 
 <table>
